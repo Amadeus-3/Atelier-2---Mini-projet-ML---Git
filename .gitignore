@@ -122,3 +122,15 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# ML-specific
+data/
+artifacts/
+logs/
+*.h5
+*.pkl
+*.pth
+*.onnx
+
+# Claude
+.claude/
